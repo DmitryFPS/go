@@ -17,6 +17,12 @@ linters-settings:
         # Whether to be strict about shadowing; can be noisy.
         # Default: false
         strict: true
+  tagliatelle: # [!] configure it accordingly to your project rules.
+    case:
+      use-field-name: false
+      rules:
+        json: snake
+        yaml: snake
 
 issues:
   exclude-rules:
