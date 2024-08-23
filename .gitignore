@@ -28,7 +28,6 @@ Thumbs.db
 *.bak
 
 ### Временно скрываю
-hw03_chessboard
 hw04_struct_comparator
 hw05_shapes
 hw06_testing
