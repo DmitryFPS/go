@@ -28,7 +28,6 @@ Thumbs.db
 *.bak
 
 ### Временно скрываю
-hw05_shapes
 hw06_testing
 hw07_word_counter
 hw08_binary_search
